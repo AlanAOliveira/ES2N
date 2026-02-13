@@ -1,1 +1,38 @@
+mindmap
+  root((Engenharia de Software))
+    Software
+      Dados
+        Estrutura de Dados
+            Tipos
+        Banco de dados
+      Algoritimos
+        Logica
+      Documentação
+        Padronização
+        Manutenção
+    Engenharia
+        Qualidade
+            Requisitos
+            Desempenho
+            Confiabilidade
+            projeto
+            arquitetura
+        Processos
+            componentes
+            integração
+            validação
+        Metodos
+            Metodologia
+                Agil
+                    SCRUM
+                    Kanban
+                    Lean
+                Classicas
+                    Cascata
+                    Incremental
+        Ferramentas
+            IDE
+
+
+        
 
