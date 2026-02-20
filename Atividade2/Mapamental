@@ -1,0 +1,44 @@
+---
+config:
+  theme: redux-dark-color
+---
+mindmap
+    root((Abordagem))
+        )XP(
+            {{Manifesto Agil}}
+                Orientado a entregas
+                Documentação Minima
+            Testes Unitarios
+        )RUP(
+            {{Focado em empresas}}
+                Projetos Complexos
+                Equipes Grandes
+            {{Iterativo}}
+                Ciclos
+            {{Fases}}
+                Concepção
+                Elaboração
+                Construção
+                Transição
+            UML                
+        )SCRUM(
+            {{Empirica}}
+                Experiencias Passadas
+            {{Sprint}}
+                Planning
+                Backlog
+                Review
+                Retrospective
+            {{Papeis}}
+                Product Owner
+                    Ligado ao Cliente
+                    Foco no Produto
+                Scrum Master
+                    Foco na Equipe
+                    Gestão
+                    Facilitado
+                Dev Team
+                    Testes
+                    Design
+                    Developer
+        
